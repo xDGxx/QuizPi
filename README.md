@@ -15,6 +15,9 @@ O trabalho foi organizado em sprints curtas com entregas regulares, permitindo u
 ### Reuniões diárias:
 Para manter a comunicação clara e a equipe alinhada com os objetivos, foram realizadas reuniões diárias rápidas (stand-ups).
 ### Tecnologias Utilizadas
+
+<img align="center" alt="figma" height=70 width=60 src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/java/java-original.svg" /><img align="center" alt="github" height=70 width=60 src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/github/github-original.svg" />
+                     
 ### Java:
 Linguagem principal para o desenvolvimento da aplicação.
 ### Git:
